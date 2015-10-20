@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>save_money</key>
+	<real>0</real>
+	<key>cigs_smoke</key>
+	<integer>0</integer>
+	<key>time</key>
+	<date>2014-11-07T09:59:06Z</date>
+	<key>cigs</key>
+	<integer>0</integer>
+	<key>schedule</key>
+	<array/>
+</dict>
+</plist>
